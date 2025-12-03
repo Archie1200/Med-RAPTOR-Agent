@@ -74,12 +74,12 @@ Default settings:
 - **Cumulative best tracking**: Monotonically improving performance
 
 
-## 📖For More Details
+## For More Details
 
 See the attached report: **`24826_abstract.pdf`**
 
 
-## 🙏 Acknowledgments
+## Acknowledgments
 - RAPTOR framework (Sarthi et al., 2024)
 - PubMedQA dataset
 - Hugging Face Transformers
