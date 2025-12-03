@@ -28,13 +28,13 @@ python baseline_rag.py
 
 #### Option 2: RAPTOR Agent (without NLI)
 
-python Raptor_NLI.py
-
-#### Option 3: RAPTOR Agent (with NLI) - **Best Performance**
 python Raptor_NonNLI.py
 
+#### Option 3: RAPTOR Agent (with NLI) - **Best Performance**
+python Raptor_NLI.py
+
 ## 📈 Outputs
-Each script generates:
+The Raptor_NLI code generates:
 - **Terminal output**: Round-by-round performance metrics
 - **Graph**: `med_raptor_performance.png` (visualization showing accuracy and F1 improvement across agentic rounds)
 - **Statistics**: Exact Match (EM) and F1 scores with delta improvements
