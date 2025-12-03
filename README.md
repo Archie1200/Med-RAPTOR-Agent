@@ -40,8 +40,6 @@ The Raptor_NLI code generates:
 - **Statistics**: Exact Match (EM) and F1 scores with delta improvements
 
 ## Configuration
-
-Default settings:
 - **Dataset**: PubMedQA (biomedical yes/no/maybe questions)
 - **Index size**: 150 documents
 - **Test size**: 30 questions 
