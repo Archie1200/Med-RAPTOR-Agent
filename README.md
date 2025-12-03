@@ -49,7 +49,7 @@ Default settings:
 - **Models**: 
   - Generation: Google Gemma 2B-IT
   - NLI Verification: DeBERTa-v3-base
-  - Embeddings: MPNet sentence transformers
+  - Embeddings: sentence-transformers
 
 
 ## 📚 Methodology
